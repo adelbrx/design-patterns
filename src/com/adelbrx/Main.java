@@ -1,6 +1,6 @@
 package com.adelbrx;
 
-import com.adelbrx.memento.exercice.Demo;
+import com.adelbrx.state.exercice.Demo;
 
 public class Main {
 
