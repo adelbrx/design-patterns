@@ -1,6 +1,6 @@
 package com.adelbrx;
 
-import com.adelbrx.strategy.exercice.Demo;
+import com.adelbrx.template.exercice.Demo;
 
 public class Main {
 
