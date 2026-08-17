@@ -1,6 +1,6 @@
 package com.adelbrx;
 
-import com.adelbrx.chainOfResponsability.exercice.Demo;
+import com.adelbrx.visitor.exercice.Demo;
 
 public class Main {
 
