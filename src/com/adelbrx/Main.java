@@ -1,6 +1,6 @@
 package com.adelbrx;
 
-import com.adelbrx.mediator.exercice.Demo;
+import com.adelbrx.chainOfResponsability.exercice.Demo;
 
 public class Main {
 
