@@ -1,6 +1,6 @@
 package com.adelbrx;
 
-import com.adelbrx.flyweight.exercice.Demo;
+import com.adelbrx.proxy.exercice.Demo;
 
 public class Main {
 
