@@ -1,6 +1,6 @@
 package com.adelbrx;
 
-import com.adelbrx.facade.exercice.Demo;
+import com.adelbrx.flyweight.exercice.Demo;
 
 public class Main {
 
