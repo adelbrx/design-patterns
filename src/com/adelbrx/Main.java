@@ -1,6 +1,6 @@
 package com.adelbrx;
 
-import com.adelbrx.proxy.exercice.Demo;
+import com.adelbrx.prototype.exercice.Demo;
 
 public class Main {
 
