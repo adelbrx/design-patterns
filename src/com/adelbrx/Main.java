@@ -1,6 +1,6 @@
 package com.adelbrx;
 
-import com.adelbrx.singleton.exercice.Demo;
+import com.adelbrx.factory.exercice.Demo;
 
 public class Main {
 
